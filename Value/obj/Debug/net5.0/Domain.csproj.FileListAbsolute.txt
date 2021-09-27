@@ -1,0 +1,30 @@
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\bin\Debug\net5.0\Domain.deps.json
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\bin\Debug\net5.0\Domain.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\bin\Debug\net5.0\Domain.pdb
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\obj\Debug\net5.0\Domain.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\obj\Debug\net5.0\Domain.pdb
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\bin\Debug\net5.0\Domain.runtimeconfig.json
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+C:\Users\Dang Minh Quan\source\repos\Reactivities\Value\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+E:\Reactivities\Value\bin\Debug\net5.0\Domain.deps.json
+E:\Reactivities\Value\bin\Debug\net5.0\Domain.runtimeconfig.json
+E:\Reactivities\Value\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+E:\Reactivities\Value\bin\Debug\net5.0\Domain.dll
+E:\Reactivities\Value\bin\Debug\net5.0\ref\Domain.dll
+E:\Reactivities\Value\bin\Debug\net5.0\Domain.pdb
+E:\Reactivities\Value\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\Reactivities\Value\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Reactivities\Value\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\Reactivities\Value\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\Reactivities\Value\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\Reactivities\Value\obj\Debug\net5.0\Domain.dll
+E:\Reactivities\Value\obj\Debug\net5.0\ref\Domain.dll
+E:\Reactivities\Value\obj\Debug\net5.0\Domain.pdb
+E:\Reactivities\Value\obj\Debug\net5.0\Domain.genruntimeconfig.cache

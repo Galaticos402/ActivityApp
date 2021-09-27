@@ -1,0 +1,36 @@
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\bin\Debug\net5.0\Persistence.runtimeconfig.json
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\bin\Debug\net5.0\Persistence.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\bin\Debug\net5.0\Persistence.pdb
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\bin\Debug\net5.0\Domain.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\bin\Debug\net5.0\Domain.pdb
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\obj\Debug\net5.0\Persistence.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\obj\Debug\net5.0\Persistence.pdb
+C:\Users\Dang Minh Quan\source\repos\Reactivities\DataContext\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+E:\Reactivities\DataContext\bin\Debug\net5.0\Persistence.deps.json
+E:\Reactivities\DataContext\bin\Debug\net5.0\Persistence.runtimeconfig.json
+E:\Reactivities\DataContext\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+E:\Reactivities\DataContext\bin\Debug\net5.0\Persistence.dll
+E:\Reactivities\DataContext\bin\Debug\net5.0\ref\Persistence.dll
+E:\Reactivities\DataContext\bin\Debug\net5.0\Persistence.pdb
+E:\Reactivities\DataContext\bin\Debug\net5.0\Domain.dll
+E:\Reactivities\DataContext\bin\Debug\net5.0\Domain.pdb
+E:\Reactivities\DataContext\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+E:\Reactivities\DataContext\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Reactivities\DataContext\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+E:\Reactivities\DataContext\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+E:\Reactivities\DataContext\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Reactivities\DataContext\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+E:\Reactivities\DataContext\obj\Debug\net5.0\Persistence.dll
+E:\Reactivities\DataContext\obj\Debug\net5.0\ref\Persistence.dll
+E:\Reactivities\DataContext\obj\Debug\net5.0\Persistence.pdb
+E:\Reactivities\DataContext\obj\Debug\net5.0\Persistence.genruntimeconfig.cache

@@ -1,0 +1,130 @@
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\appsettings.json
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\API.exe
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\API.deps.json
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\API.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\API.pdb
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\API.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\API.pdb
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Domain.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Persistence.dll
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Persistence.pdb
+C:\Users\Dang Minh Quan\source\repos\Reactivities\API\bin\Debug\net5.0\Domain.pdb
+E:\Reactivities\API\bin\Debug\net5.0\appsettings.Development.json
+E:\Reactivities\API\bin\Debug\net5.0\appsettings.json
+E:\Reactivities\API\bin\Debug\net5.0\API.exe
+E:\Reactivities\API\bin\Debug\net5.0\API.deps.json
+E:\Reactivities\API\bin\Debug\net5.0\API.runtimeconfig.json
+E:\Reactivities\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+E:\Reactivities\API\bin\Debug\net5.0\API.dll
+E:\Reactivities\API\bin\Debug\net5.0\ref\API.dll
+E:\Reactivities\API\bin\Debug\net5.0\API.pdb
+E:\Reactivities\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Reactivities\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Reactivities\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Reactivities\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Reactivities\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Reactivities\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Reactivities\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Reactivities\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Reactivities\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Reactivities\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Reactivities\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Reactivities\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Reactivities\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Reactivities\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Reactivities\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Reactivities\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Reactivities\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Reactivities\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Reactivities\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Reactivities\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Reactivities\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Reactivities\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Reactivities\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Reactivities\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Reactivities\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Reactivities\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Reactivities\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Reactivities\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Reactivities\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Reactivities\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Reactivities\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Reactivities\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Reactivities\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Reactivities\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Reactivities\API\bin\Debug\net5.0\Domain.dll
+E:\Reactivities\API\bin\Debug\net5.0\Persistence.dll
+E:\Reactivities\API\bin\Debug\net5.0\Persistence.pdb
+E:\Reactivities\API\bin\Debug\net5.0\Domain.pdb
+E:\Reactivities\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+E:\Reactivities\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Reactivities\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+E:\Reactivities\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+E:\Reactivities\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+E:\Reactivities\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\Reactivities\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\Reactivities\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+E:\Reactivities\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+E:\Reactivities\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+E:\Reactivities\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+E:\Reactivities\API\obj\Debug\net5.0\API.csproj.CopyComplete
+E:\Reactivities\API\obj\Debug\net5.0\API.dll
+E:\Reactivities\API\obj\Debug\net5.0\ref\API.dll
+E:\Reactivities\API\obj\Debug\net5.0\API.pdb
+E:\Reactivities\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+E:\Reactivities\API\bin\Debug\net5.0\MediatR.dll
+E:\Reactivities\API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Reactivities\API\bin\Debug\net5.0\Application.dll
+E:\Reactivities\API\bin\Debug\net5.0\Application.pdb
